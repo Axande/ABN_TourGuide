@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ABN_TourGuidev2</string>
+
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="location">Location</string>
+    <string name="phone">Phone</string>
+    <string name="location_details">Location Details</string>
+    <string name="website">Website</string>
+
+    <!--Titles-->
+    <string name="tab_all_locations">All locations</string>
+    <string name="tab_cool_places">Cool places</string>
+    <string name="tab_parks">Parks</string>
+    <string name="tab_bars">Bars</string>
+    <string name="tab_restaurants">Restaurants</string>
+
+</resources>
