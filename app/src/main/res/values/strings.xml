@@ -15,4 +15,79 @@
     <string name="tab_bars">Bars</string>
     <string name="tab_restaurants">Restaurants</string>
 
+    <!--Dummy data-->
+    <string name="dummy_title">Dummy data </string>
+    <string name="dummy_description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</string>
+    <string name="dummy_empty_location">0</string>
+    <string name="dummy_location">51.4455368,5.3814704,12zq=Eindhoven</string>
+    <string name="dummy_phone">0</string>
+
+    <!--Vapiano-->
+    <string name="vapiano_title">Vapiano</string>
+    <string name="vapiano_description">Vapiano is a European restaurant franchise company headquartered in Bonn. The chain\'s restaurants offer Italian food according to the fast-casual principle. In April 2017, Vapiano totaled 180 locations in 31 countries, including Australia, China, Saudi Arabia and the United States. For many years, the company was among the fastest-growing players in the industry.</string>
+    <string name="vapiano_location">51.4379756,5.477862,17z?q=vapiano</string>
+    <string name="vapiano_phone">040 760 2070</string>
+    <string name="vapiano_website">https://nl.vapiano.com/nl/home/</string>
+
+    <!--Lempke-->
+    <string name="lempke_title">Café \'t Lempke</string>
+    <string name="lempke_description">Everyone in Eindhoven knows \'t Lempke. From what? From the hours of dancing for, next to and especially at the bar. Every Thursday, Friday and Saturday, \'t Lempke is full of nightlife, what makes 't Lempke one of the most crowded nightlife locations in Eindhoven. But people also know 't Lempke as the permanent home of many student associations. </string>
+    <string name="lempke_location">51.4367399,5.478519,17zq=Café \'t Lempke</string>
+    <string name="lempke_phone">06 52655204</string>
+    <string name="lempke_website">http://lempke.nl/</string>
+
+    <!--Bistro Calypso-->
+    <string name="calypso_title">Bar Bistro Calypso</string>
+    <string name="calypso_description">Bar Bistro Calypso openend on January first this year. It is located on Stratumseind, right in the middle of the street.</string>
+    <string name="calypso_location">51.4359714,5.4807166,17zq=Bar Bistro Calypso</string>
+    <string name="calypso_phone">040 368 0691</string>
+    <string name="calypso_website">http://bistrocalypso.nl</string>
+
+    <!--Evoluon-->
+    <string name="evoluon_title">Evoluon</string>
+    <string name="evoluon_description">The Evoluon is a conference centre and former science museum erected by the electronics and electrical company Philips at Eindhoven in the Netherlands in 1966. Since its construction, it has become a landmark and a symbol for the city.</string>
+    <string name="evoluon_location">51.443633,5.4410833,17zq=Evoluon</string>
+    <string name="evoluon_phone">0</string>
+
+    <!--Philips museum-->
+    <string name="philips_title">Philips museum</string>
+    <string name="philips_description">The museum provides an inspiring overview of historic inventions and examples of global entrepreneurship, and shows how Philips has been improving people’s lives through meaningful innovations ever since it was first founded.</string>
+    <string name="philips_location">51.4391109,5.4755326,15zq=Philips+museum</string>
+    <string name="philips_phone">040 235 9030</string>
+    <string name="philips_website">philips-museum.com</string>
+
+    <!--Genneper Parken-->
+    <string name="gp_title">Genneper Parken</string>
+    <string name="gp_description">A great place for relaxation.</string>
+    <string name="gp_location">51.4213467,5.4731862,15zq=Genneper+Parken</string>
+    <string name="gp_phone">0</string>
+
+    <!--Effenaar-->
+    <string name="effenaar_title">Effenaar</string>
+    <string name="effenaar_description">Night club. Long-running venue with 2 concert halls and a bar/eatery hosting shows by rock ’n’ roll and pop artists.</string>
+    <string name="effenaar_location">51.441718,5.483253,15zq=Effenaar</string>
+    <string name="effenaar_phone">040 239 3666</string>
+    <string name="effenaar_website">www.effenaar.nl/‎</string>
+
+    <!--Van Abbemuseum-->
+    <string name="abbemuseum_title">Van Abbemuseum</string>
+    <string name="abbemuseum_description">Van Abbemuseum is a museum of modern and contemporary art located in central Eindhoven, Netherlands, on the east bank of the Dommel river. Established in 1936, the Abbe Museum is named after its founder, Henri van Abbe.</string>
+    <string name="abbemuseum_location">51.4345468,5.4819596,15zq=Van+Abbe+Museum</string>
+    <string name="abbemuseum_phone">040 238 1000</string>
+    <string name="abbemuseum_website">https://vanabbemuseum.nl/</string>
+
+    <!--DAF Museum-->
+    <string name="daf_title">DAF Museum</string>
+    <string name="daf_description">Museum telling the story of the DAF brand, displaying trucks, rare production, and prototype vehicles.</string>
+    <string name="daf_location">51.4372171,5.4904478,15zq=DAF+Museum</string>
+    <string name="daf_phone">040 244 4364</string>
+    <string name="daf_website">www.daf.nl/‎</string>
+
+    <!--PSV Museum-->
+    <string name="psv_title">PSV Museum</string>
+    <string name="psv_description">The PSV Museum provides a wonderful day out for PSV fans. You will discover over one hundred years of PSV history. The Hall of Fame features the greatest players, including Jan van Beveren and samba star Romário. </string>
+    <string name="psv_location">51.441112,5.468572,15zq=PSV+Museum</string>
+    <string name="psv_phone">040 250 5505</string>
+    <string name="psv_website">www.psv.nl/english-psv/museum-tours/museum.htm</string>
+
 </resources>
